@@ -2,7 +2,7 @@
 
 INTRODUCTION
 
-Smart Study-Time Analyzer is a C++ console-based project developed to analyze a student’s daily study habits and productivity.
+Smart Study-Time Analyzer is a C++ console based project developed to analyze a student’s daily study habits and productivity.
 
 The program takes inputs such as:
  - Study Hours
